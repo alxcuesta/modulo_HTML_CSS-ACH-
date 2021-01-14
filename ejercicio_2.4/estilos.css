@@ -1,0 +1,22 @@
+.negrita {
+    font-weight: bold;
+}
+.cursiva {
+    font-style: italic;
+}
+.subrayado{
+    text-decoration:underline ;
+}
+.letra_grande{
+    font-size: 25px;
+}
+.letra_pequena{
+    font-size: 12px;
+}
+.letra_violeta{
+    color: violet;
+}
+.fondo_azul {
+    background-color: rgb(113, 189, 240) ;
+}
+   
