@@ -1,0 +1,7 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.primero {
+    font-style: italic;
+    border: 7px dotted rgb(5, 131, 5);
+}
