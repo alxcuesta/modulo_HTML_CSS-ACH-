@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.fondomenu {
+    margin: 0;
+    height: 40px;
+    background-color: blue;
+    color: cornsilk;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.fondomenu li:hover {
+    color: rgb(189, 107, 107);
+}
