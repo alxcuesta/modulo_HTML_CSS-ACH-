@@ -1,0 +1,15 @@
+.listado{
+    margin: 20px;
+}
+.listado p{
+    background-color: rgb(123, 237, 100);
+    width: 100px;
+    height: 25px;
+    text-align: center; 
+}
+.listado a:hover{
+    color: rgb(21, 255, 0);
+}
+.listado a:visited{
+    color: rgb(243, 4, 4);
+}
