@@ -1,0 +1,53 @@
+body{
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contenprimero{
+    display: flex;
+    justify-content: space-evenly;
+}
+.conteninfo{
+    display: flex;   
+}
+.contencontact{
+    margin-left: 10px;
+}
+.titulo{
+    font-size: 18px;
+    margin: 4px;
+}
+.subtitulo{
+    margin: 4px;
+}
+.botongral{
+    height: 40px;
+    border-radius: 5px;
+}
+.reserv{
+    background-color: honeydew;
+    border: 3px solid grey;
+
+}
+.presup{
+    color: white;
+    background-color: grey;
+    border: 0px solid grey;
+}
+.contencomment{
+   display: flex;
+   align-items: center; 
+}
+.notaescritos{
+
+}
+.notanumeros{
+    background-color: grey;
+    color: indigo;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.notanumeros p{
+    margin: 0px;
+}
